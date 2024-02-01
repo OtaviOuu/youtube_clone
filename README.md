@@ -4,8 +4,6 @@ Attempt to recreate YouTube's video processing system 🤗
 
 
 
-## 🛠 Skills
-Javascript, HTML, CSS...
 
 
 ## 💞 Tech Stack
